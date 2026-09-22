@@ -1,1 +1,1 @@
-token = "8910660478:AAHfEZvfqVpfFUghWEQebHxN1khxGwU0pHU"
+token = "8910660478:AAHfEZvfqVpfFUghWEQebHxN1khxGwU0pHU" #добавил токен
